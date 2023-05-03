@@ -60,6 +60,6 @@ for(let o = 81; o >= 26; o --) {
 
 
 //Create a loop that logs the numbers from 3-90 that are multiples of 3 (ascending)
-//for(let nums0 = 3; nums0 < 100; nums0 = nums0 + 3) {
-    //console.log(nums0);
-//}
+for(let nums0 = 3; nums0 < 100; nums0 = nums0 + 3) {
+    console.log(nums0);
+}
