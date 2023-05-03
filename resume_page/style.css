@@ -1,0 +1,88 @@
+body {
+    background-image: url(/image/grump-cat.bgi.jpg);
+    
+}
+
+ul{
+    padding: 10px;
+    background: rgba(0,0,0,0.5)
+    
+}
+
+
+
+li{
+    padding: 0px 10px 0px 10px;
+    text-align: center;
+}
+
+h1{
+    font-size: 36px;
+    padding: 5px;
+    color: rebeccapurple;
+    font-style: oblique;
+}
+
+li{
+    padding: 5px;
+    display: block;
+}
+
+h3{
+    text-align: center;
+    color: brown;
+    font-style: oblique;
+    font-size: 50px;
+}
+
+h2{
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+}
+
+h1{
+    text-align: center;
+    color: rebeccapurple;
+    font-style: oblique;
+    font-size: 80px;
+    
+}
+
+
+header {
+  text-align: center;
+  background: url("image/bruce.bg.jpg");
+  background-size: cover;
+  color: white;
+}
+a {
+  color: white;
+}
+h1 {
+  font-size: 70px;
+  color: yellow;
+}
+h2 {
+  color: yellow;
+  font-size: 55px;
+}
+
+ul {
+  padding: 10px;
+  background: rgba(0,0,0,0.5);
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+article {
+  max-width: 500px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+  li {
+    padding: 5px;
+    display: block;
+  }
